@@ -48,7 +48,7 @@ const MyApplications = () => {
                 <label>#</label>
               </th>
 
-              <th>Appllcant</th>
+              <th>Appllcants</th>
               <th>Company </th>
               <th>applicant link</th>
             </tr>
